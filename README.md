@@ -18,3 +18,6 @@ The task can be viewed as a denoising problem, where the true images $(f^{\*}, g
 ## Example Results  
 ### Below is the noisy image, and above is the reconstructed image $(f, g)$.
 ![Noisy Image & Reconstructed Image](/DGUNet_DN/res_real_test/0000.png)
+
+## Acknowledgements
+This code is built on [DGUNet](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration). We thank the authors for sharing their codes of DGUNet.
