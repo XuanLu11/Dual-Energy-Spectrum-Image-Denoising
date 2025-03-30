@@ -16,5 +16,5 @@ This project aims to enhance the generated images $(f, g)$ using deep learning m
 The task can be viewed as a denoising problem, where the true images $(f^{\*}, g^{\*})$ are corrupted by unknown noise. The goal is to learn the characteristics of this noise using deep learning techniques and improve the quality of the reconstructed images.  
 
 ## Example Results  
-### Below is the noisy image, and above is the reconstructed image$(f, g)$.
+### Below is the noisy image, and above is the reconstructed image $(f, g)$.
 ![Noisy Image & Reconstructed Image](/DGUNet_DN/res_real_test/0000.png)
